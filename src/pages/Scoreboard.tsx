@@ -11,7 +11,7 @@ import {
 } from "@/components/ui/alert-dialog";
 import { toast } from "sonner";
 
-const QUICK_POINTS = [10, 20, 30, 50, 100];
+const QUICK_POINTS = [20, 40, 60, 80, 100];
 
 interface MatchState {
   id: string;
